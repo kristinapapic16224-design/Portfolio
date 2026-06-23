@@ -454,23 +454,22 @@ footer hr{
     font-size:14px;
 }
 
-/* cela traka */
 ::-webkit-scrollbar{
     width:12px;
 }
 
-/* pozadina trake */
+
 ::-webkit-scrollbar-track{
     background:#EDE7D9;
 }
 
-/* deo koji se pomera */
+
 ::-webkit-scrollbar-thumb{
     background:#6E7F52;
     border-radius:10px;
 }
 
-/* kada pređeš mišem */
+
 ::-webkit-scrollbar-thumb:hover{
     background:#3F4A2C;
 }
